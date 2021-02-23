@@ -25,8 +25,8 @@ ATM_EVENT = [
 
 CUSTOMER = [
 
-    'Berri UQAM',
-    'Lionel Groulx'
+    'Berri',
+    'Rosemont'
 ]
 
 def generate_event():
